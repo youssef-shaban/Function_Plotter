@@ -19,24 +19,24 @@ FunctionPlotter
 
 1- how the application already work:
 
-![2](img\2.jpg)
+![2](img/2.jpg)
 
 2- some challenging example
 
-![3](img\3.jpg)
+![3](img/3.jpg)
 
 3- trying some handled error cases1
 
-![4](img\4.jpg)
+![4](img/4.jpg)
 
-![5](img\5.jpg)
+![5](img/5.jpg)
 
-![6](img\6.jpg)
+![6](img/6.jpg)
 
 ### Automatic Testing:
 
 while using qt, I get some troubles while running automatic test, so instead of that I tried to run the test in a another file, with the core class which is `FunctionGenerator.h`, and this is the results of the test
 
-![1](img\1.jpg)
+![1](img/1.jpg)
 
 the test failed only in a case when `3x`, in mathematics, this will result 9, but the program has some trouble when dealing that case.
