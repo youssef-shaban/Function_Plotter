@@ -1,0 +1,2 @@
+C:\MinGW\bin\ar.exe qc libAPI_lib.a CMakeFiles/API_lib.dir/functiongenerator.cpp.obj
+C:\MinGW\bin\ranlib.exe libAPI_lib.a

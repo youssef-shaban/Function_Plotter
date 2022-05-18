@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/youss/CLionProjects/FunctionGenerator/Function_lib/functiongenerator.cpp
+functiongenerator.h
+C:/Users/youss/CLionProjects/FunctionGenerator/Function_lib/functiongenerator.h
+stack
+-
+queue
+-
+sstream
+-
+cmath
+-
+
+C:/Users/youss/CLionProjects/FunctionGenerator/Function_lib/functiongenerator.h
+string
+-
+
